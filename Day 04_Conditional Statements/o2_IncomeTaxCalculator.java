@@ -18,6 +18,7 @@ public class o2_IncomeTaxCalculator {
         }
 
         System.out.println("Your tax is : " + tax + ".");
+        user_input.close();
     }
     
 }
