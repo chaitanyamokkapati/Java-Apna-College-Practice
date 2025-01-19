@@ -2,7 +2,7 @@ public class o2_Print_1TO10 {
     public static void main(String[] args) {
         int num = 1;
         while (num <= 10) {
-            System.out.println(num);
+            System.out.print(num);
             num++;
         }
     }
