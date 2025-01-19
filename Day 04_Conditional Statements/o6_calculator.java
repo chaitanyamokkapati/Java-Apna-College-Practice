@@ -31,5 +31,6 @@ public class o6_calculator {
             System.out.println("Invalid Symbol!!");
                 break;
         }
+        User_input.close();
     }
     }
