@@ -16,8 +16,12 @@ public class o5_Product {
         //System.out.println(prod(a, b));
 
         System.out.println("Product of " + a + " * " + b +" = " + ans);
-        
+
         user_in.close();
+
+        // Calling Function
+        ans = prod(2, 9);
+        System.out.println(ans);
     }
     
 }
