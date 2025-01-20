@@ -19,5 +19,7 @@ public class o6_Factorial {
         System.out.println("**********************");
         int result = Fact(userInput);
         System.out.println("Factorial of " + userInput + " is: " + result);
+
+        sc.close();
     }
 }
