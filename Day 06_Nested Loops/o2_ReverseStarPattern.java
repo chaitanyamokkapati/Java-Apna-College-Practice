@@ -1,3 +1,5 @@
+// n - i + 1
+// No of Stars(n) = 4 - lines number (i) 1 + 1 Eg
 import java.util.Scanner;
 
 public class o2_ReverseStarPattern {
